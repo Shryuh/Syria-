@@ -95,4 +95,4 @@ The data report can be found https://docs.google.com/document/d/1gqbvPIr45FmYyQ_
 
 The notebook can be found http://localhost:8890/notebooks/Untitled1.ipynb?kernel_name=python3
 
-The Presentation Slides can be found https://www.canva.com/design/DAFSe4B_AnU/eYiL5cge4KjAopoTH9W1ng/edit
+The Presentation Slides can be found https://www.canva.com/design/DAFSe4B_AnU/eYiL5cge4KjAopoTH9W1ng/view?utm_content=DAFSe4B_AnU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
